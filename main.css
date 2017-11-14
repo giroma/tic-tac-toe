@@ -1,0 +1,15 @@
+body {
+  width: 350px;
+  height: 350px;
+  background-color: grey;
+}
+
+div {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border: 5px solid orange;
+  font-size: 90px;
+  text-align: center;
+}
