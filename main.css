@@ -12,4 +12,5 @@ div {
   border: 5px solid orange;
   font-size: 90px;
   text-align: center;
+  cursor: pointer;
 }
